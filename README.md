@@ -1,8 +1,6 @@
 # FHIR_Assessment
 FHIR_Assessment
 
-Sure, here's a sample Readme file:
-
 FHIR Data to Pandas Dataframe
 This Python script allows you to convert FHIR standard data in JSON format into a Pandas dataframe for further analysis. The script can handle multiple JSON files in a directory and concatenates them into a single dataframe.
 
